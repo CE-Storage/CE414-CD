@@ -1,4 +1,4 @@
-# CE40414-CD: Compiler Design Course Repository
+# CE414-CD: Compiler Design Course Repository
 
 Welcome to the repository for Compiler Design course at Sharif University of Technology. This repository is a comprehensive collection of assignments, exam materials, lecture slides, and additional resources.
 
