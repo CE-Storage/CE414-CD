@@ -1,6 +1,6 @@
-# CE{code}-{abbreviation}: {course name} Course Repository
+# CE40414-CD: Compiler Design Course Repository
 
-Welcome to the repository for {course name} course at Sharif University of Technology. This repository is a comprehensive collection of assignments, exam materials, lecture slides, and additional resources.
+Welcome to the repository for Compiler Design course at Sharif University of Technology. This repository is a comprehensive collection of assignments, exam materials, lecture slides, and additional resources.
 
 ## Table of Contents
 
@@ -55,6 +55,7 @@ We appreciate your contributions and look forward to your valuable input!
 ## Maintainer
 
 Information about the maintainer(s) of the repository, with contact details.
+- [Moeein Aali](https://github.com/moeeinaali)
 
 ## License
 
